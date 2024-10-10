@@ -1,5 +1,7 @@
 # 改进FT VERSA WING
 
+原作出处 http://flitetest.com/articles/ft-versa-wing-build
+
 使用5mm厚kt板冷板、2mm厚木板切割，红线切割一半深度，kt板排版大小为1200*900
 
 电机安装位置：前拉/尾推/前拉+尾推 可选，木制机舱已预留M2.5 30.5mm*30.5mm穿越机通用尺寸图传安装孔位 及摄像头安装孔位。GPS、图传天线应自行开洞安装在飞机上表面。
