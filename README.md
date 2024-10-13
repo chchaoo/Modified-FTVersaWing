@@ -6,8 +6,8 @@
 
 电机安装位置：前拉/尾推/前拉+尾推 可选，木制机舱已预留M2.5 30.5mm*30.5mm穿越机通用尺寸图传安装孔位 及摄像头安装孔位。GPS、图传天线应自行开洞安装在飞机上表面。
 
-![1](https://github.com/user-attachments/assets/ec05e53f-922f-4693-aeaa-d3f99b26648b)
-![2](https://github.com/user-attachments/assets/aebd5475-c5da-4060-8a51-a26861a9878e)
+| ![1](https://github.com/user-attachments/assets/ec05e53f-922f-4693-aeaa-d3f99b26648b) | ![2](https://github.com/user-attachments/assets/aebd5475-c5da-4060-8a51-a26861a9878e) |
+|--------------------------------------------|--------------------------------------------|
 
 ### 工具
 （激光切割机），热熔胶枪，裁纸刀，钢尺，钳子
