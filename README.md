@@ -13,7 +13,7 @@ Based on the [Flite Test Versa Wing](https://www.flitetest.com/articles/ft-versa
 
 **English** · [简体中文](README.zh-CN.md)
 
-### [⬇ Download the cut files (.zip)](https://github.com/chchaoo/Modified-FTVersaWing/releases/latest)
+### [⬇ Download DXF plans](https://github.com/chchaoo/Modified-FTVersaWing/releases/latest)
 
 <img src="docs/images/photo-1.jpg" width="49%" alt="The finished wing, pusher motor at the back"> <img src="docs/images/photo-2.jpg" width="49%" alt="Top view with the wooden bay and the spare bay walls">
 

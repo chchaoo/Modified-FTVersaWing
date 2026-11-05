@@ -13,7 +13,7 @@
 
 [English](README.md) · **简体中文**
 
-### [⬇ 下载切割图纸（.zip）](https://github.com/chchaoo/Modified-FTVersaWing/releases/latest)
+### [⬇ 下载 DXF 图纸](https://github.com/chchaoo/Modified-FTVersaWing/releases/latest)
 
 <img src="docs/images/photo-1.jpg" width="49%" alt="成品飞翼，尾推电机"> <img src="docs/images/photo-2.jpg" width="49%" alt="俯视图，中间是木质机舱，前面是备用的机舱侧板">
 
